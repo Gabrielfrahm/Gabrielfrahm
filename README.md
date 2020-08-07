@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gabriel_frahm@hotmail.com
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-GabrielMarques-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-frahm-06101b170/)](https://www.linkedin.com/in/gabriel-frahm-06101b170/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Marques-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-frahm-06101b170/)](https://www.linkedin.com/in/gabriel-frahm-06101b170/)
 [![Hotmail Badge](https://img.shields.io/badge/-gabriel_frahm@hotmail.com-blue?style=for-the-badge&logo=Hotmail&logoColor=white&link=mailto:gabriel_frahm@hotmail.com)](mailto:gabriel_frahm@hotmail.com)
 
