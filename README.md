@@ -26,8 +26,8 @@
 
 <div>
   - 🌱 I'm currently learning full stack react </br>
-- 🔭 I’m currently working on web development </br>
-- 📫 How to reach me: gabriel_frahm@hotmail.com </br>
+  - 🔭 I’m currently working on React and React native / adonis JS </br>
+  - 📫 How to reach me: gabriel_frahm@hotmail.com or gabriel.mfrahm@gmail.com </br>
 </div>
 
 
