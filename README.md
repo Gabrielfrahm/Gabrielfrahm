@@ -30,7 +30,7 @@
 
 <div>
   - 🌱 I'm currently learning full stack react </br>
-  - 🔭 I’m currently working on React and React native / adonis JS </br>
+  - 🔭 I’m currently working on React and React native (expo) / adonis JS/ nest js </br>
   - 📫 How to reach me: gabriel_frahm@hotmail.com or gabriel.mfrahm@gmail.com </br>
 </div>
 
