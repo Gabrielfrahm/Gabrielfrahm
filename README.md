@@ -12,6 +12,7 @@
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gabriel-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="dont-use-light-theme" src="https://c.tenor.com/UizX__nl-jsAAAAM/cat-light.gif">
@@ -29,7 +30,7 @@
 </div>
 
 <div>
-  - 🌱 I'm currently learning full stack react </br>
+  - 🌱 I'm currently learning systems architecture and Go Lang</br>
   - 🔭 I’m currently working on React and React native (expo) / adonis JS/ nest js </br>
   - 📫 How to reach me: gabriel_frahm@hotmail.com or gabriel.mfrahm@gmail.com </br>
 </div>
